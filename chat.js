@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     let chatbotHTML = `
         <div id="chatbot">
             <div id="chatbotHeader">
-                <img src="person_icon.png" alt="Person Icon" id="personIcon">
+                <img src="https://umeda-ask.github.io/chat_tourilaw/person_icon.png" alt="Person Icon" id="personIcon">
                 <span>お問い合わせチャット</span>
                 <span id="closeChatbot" style="cursor: pointer;">✖</span>
             </div>
@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             </div>
         </div>
         <button id="openChatbot">
-            <img src="chat_open.png" alt="チャットアイコン">
+            <img src="https://umeda-ask.github.io/chat_tourilaw/chat_open.png" alt="チャットアイコン">
             <span id="openChatbotTooltip">お問い合わせはこちらから</span>
         </button>
     `;
