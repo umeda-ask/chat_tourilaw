@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = 'styles.css';
+    link.href = 'https://umeda-ask.github.io/chat_tourilaw/styles.css';
     document.head.appendChild(link);
 
     let chatbotHTML = `
